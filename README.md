@@ -1,6 +1,5 @@
 [![Tokscale Stats](https://tokscale.ai/api/embed/Woo-JongHo/svg?template=graph&color=purple&tokens=compact&cost=compact)](https://tokscale.ai/u/Woo-JongHo)
 
-## Hi there 👋
 
 <!--
 **Woo-JongHo/Woo-JongHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
